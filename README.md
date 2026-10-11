@@ -1,4 +1,4 @@
-# Hi, I'm Roy
+# Hi, I'm Roy 🙂
 
 Second-year Computer Science student at Bar-Ilan University, based in Kiryat Ono, Israel.
 
@@ -9,7 +9,7 @@ Second-year Computer Science student at Bar-Ilan University, based in Kiryat Ono
 ## Tech
 Java · C · Python · Git · GitHub Actions · Vercel · Railway
 
-I'm interested in systems and security and am learning more of both.
+I'm interested in systems and security and I'm learning more and more of both.
 
 ## Contact
 - LinkedIn: [linkedin.com/in/roy-kershberg](https://www.linkedin.com/in/roy-kershberg)
