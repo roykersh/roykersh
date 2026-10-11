@@ -4,7 +4,7 @@ Second-year Computer Science student at Bar-Ilan University, based in Kiryat Ono
 
 ## What I'm building
 - **[HaShuk](https://ha-shuk.co.il)**: a platform that connects clients with service professionals (work in progress).
-- **[Roy's Summaries](https://roys-summaries.vercel.app)**: interactive study pages and course summaries for CS students at Bar-Ilan.
+- **[Roy's Summaries](https://roys-summaries.vercel.app)**: interactive study pages and course summaries for CS students at Bar-Ilan ([source](https://github.com/roykersh/cs-summaries)).
 
 ## Tech
 Java · C · Python · Git · GitHub Actions · Vercel · Railway
